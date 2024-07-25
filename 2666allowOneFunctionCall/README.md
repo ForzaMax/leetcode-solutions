@@ -1,4 +1,4 @@
-### 2666. ![JavaScript](https://img.icons8.com/color/32/000000/javascript.png) [Allow One Function Call](https://leetcode.com/problems/allow-one-function-call/description/?envType=study-plan-v2&envId=30-days-of-javascript)
+### 2666. [Allow One Function Call](https://leetcode.com/problems/allow-one-function-call/description/?envType=study-plan-v2&envId=30-days-of-javascript)
 
 #### Задача
 Дана функция `fn`, верните новую функцию, которая идентична оригинальной функции, за исключением того, что она гарантирует вызов `fn` не более одного раза.

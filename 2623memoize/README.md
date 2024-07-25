@@ -1,6 +1,7 @@
-### 2623. ![JavaScript](https://img.icons8.com/color/32/000000/javascript.png) [Memoize](https://leetcode.com/problems/memoize/?envType=study-plan-v2&envId=30-days-of-javascript)
+### 2623. [Memoize](https://leetcode.com/problems/memoize/?envType=study-plan-v2&envId=30-days-of-javascript)
 
 #### Задача
+
 Дана функция `fn`, верните её мемоизированную версию.
 
 Мемоизированная функция — это функция, которая никогда не будет вызвана дважды с одинаковыми входными данными. Вместо этого она вернет кешированное значение.

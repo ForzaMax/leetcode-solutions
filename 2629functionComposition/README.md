@@ -1,4 +1,4 @@
-### 2629. ![JavaScript](https://img.icons8.com/color/32/000000/javascript.png) [Function Composition](https://leetcode.com/problems/function-composition/?envType=study-plan-v2&envId=30-days-of-javascript)
+### 2629. [Function Composition](https://leetcode.com/problems/function-composition/?envType=study-plan-v2&envId=30-days-of-javascript)
 
 📝 Композиция - это вложение функций, каждая из которых передает свой результат в качестве входных данных для другой функции.
 
